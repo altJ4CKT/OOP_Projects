@@ -35,7 +35,7 @@ class Stack:
     def peek(self) -> float:
         return self.stack[self.top] 
 
-
+#TESTING
 stack1: Stack = Stack(givenSize=10)
 stack1.Push(1)
 stack1.Push(2)
